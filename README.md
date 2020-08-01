@@ -34,4 +34,4 @@
 ---
 
 [linkedin]:https://www.linkedin.com/in/cameron-bartholome-7a0844135/
-[instagram]:
+[instagram]:https://www.instagram.com/camerontillett/
