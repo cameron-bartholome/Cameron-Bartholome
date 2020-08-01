@@ -1,4 +1,4 @@
-### Hi there, I'm Cameron - aka Serin0w0 👋
+### Hi there, I'm Cameron 👋
 
 ## I'm a mechanical Engineer and soon to be Developer!
 
