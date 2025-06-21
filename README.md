@@ -22,8 +22,6 @@ Currently working on **Safety Maze**, a simulation tool to help analyze laser be
 📝 _Follow my dev journey on Medium:_
 
 - [Why I Started Building Tools as an Engineer](https://medium.com/@yourname/why-tools)
-- [From Sketches to Code – Prototyping Ideas in Python](https://medium.com/@yourname/sketches-to-code)
-- [What I Learned in My First 100 Hours of Learning Python](https://medium.com/@yourname/100-hours-python)
 
 ---
 
