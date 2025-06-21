@@ -1,37 +1,51 @@
-### Hi there, I'm Cameron 👋
-
-## I'm a mechanical Engineer and soon to be Developer!
-
-- 🔭 I’m currently working on creating a personal portfolio.
-- 😅 I’m currently learning abit of everything .
-- 🤔 If there is a mistake on my code please let me know as I'm still learning.
-- 📫 How to reach me: Instagram or Email, it's your choice.
-- ⚡ Fun fact: I enjoy watching anime and I love trying to automate repetitive tasks.
-
-### Stalk me on:
-
-[<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="codeSTACKr | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
-
-<br />
-
-### Languages and Tools I use:
-
-[<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />]
-[<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />]
-[<img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />]
-
-[<img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />]
-[<img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />]
-[<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />]
-
-
-<br />
-<br />
+# 👋 Hey, I'm Cameron  
+**Mechanical Engineer | Builder of Tools | Developer in Progress**
 
 ---
 
+🔧 I design things that solve problems — from industrial systems to Python-powered tools.  
+Currently working on **Safety Maze**, a simulation tool to help analyze laser behavior in complex systems.
+
 ---
 
-[linkedin]: https://www.linkedin.com/in/cameron-bartholome-7a0844135/
-[instagram]: https://www.instagram.com/camerontillett/
+## 🚀 What I’m Exploring
+
+- 🧠 Combining mechanical engineering with programming
+- 📈 Using Python and data science for real-world tools
+- 🎨 Building technical renders with Blender
+- 🧰 Documenting and automating my workflows
+
+---
+
+## 📚 Blog: My Learning Journey
+
+📝 _Follow my dev journey on Medium:_
+
+- [Why I Started Building Tools as an Engineer](https://medium.com/@yourname/why-tools)
+- [From Sketches to Code – Prototyping Ideas in Python](https://medium.com/@yourname/sketches-to-code)
+- [What I Learned in My First 100 Hours of Learning Python](https://medium.com/@yourname/100-hours-python)
+
+---
+
+## 💻 Tech Stack
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Blender](https://img.shields.io/badge/Blender-F5792A?style=flat-square&logo=blender&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![Obsidian](https://img.shields.io/badge/Obsidian-483699?style=flat-square&logo=obsidian&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
+
+---
+
+## 📊 GitHub Activity
+
+<img src="https://github-readme-stats.vercel.app/api?username=cameron-bartholome&show_icons=true&theme=tokyonight" width="450"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cameron-bartholome&layout=compact&theme=tokyonight" width="300"/>
+
+---
+
+_“Solve boring problems with cool tools.”_
+
+---
+
