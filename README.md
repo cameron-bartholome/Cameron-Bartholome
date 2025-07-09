@@ -1,27 +1,51 @@
-# 👋 Hey, I'm Cameron  
-**Mechanical Engineer | Builder of Tools | Developer in Progress**
+# 👋 Hi, I'm Cameron
+
+🏷️ #designer #problemSolver #tinkerer
+
+I design and solve things ... sometimes seriously, sometimes chaotically ... but always with curiosity.
 
 ---
 
-🔧 I design things that solve problems — from industrial systems to Python-powered tools.  
-Currently working on **Safety Maze**, a simulation tool to help analyze laser behavior in complex systems.
+## 🧪 What I’m Up To
+
+Right now, I’m using this GitHub profile as a **living lab** where I try out ideas and actually implement what I learn.
+
+My current obsession?  
+🎯 **[SafetyMaze](https://github.com/cameron-bartholome/SafetyMaze)** —> a laser beam path simulator built with Python and Tkinter.
+
+It’s a personal challenge to turn:
+- physics + math curiosity  
+- Python skills I’ve been learning  
+- into a working (and hopefully useful) app
+
+
+## 🔧 Learning as I Build
+
+With **SafetyMaze**, I'm learning:
+- GUI logic and layouts (Tkinter)  
+- Beam simulation and reflection behavior  
+- Geometry rendering and scaling  
+- Planning out long-term modular code
+
+
+## 🚧 Project Status
+
+> ⚠️ Project still a WIP...messy code, quirky physics, and duct-taped interfaces included. Stay for the learning ride, and feel free to follow along!
+
+> ☕ Feedback, tips, sarcastic jokes, and laser puns always welcome.
+
+It’s not clean. It’s not optimized. And it may or may not explode if you stare at the code too long.
+
+But it’s mine ... and it’s teaching me a lot along the way.  
+(Also, a professional-looking version might appear someday… once I stop breaking it.)
+
 
 ---
 
-## 🚀 What I’m Exploring
+## 📚 About My Blog
 
-- 🧠 Combining mechanical engineering with programming
-- 📈 Using Python and data science for real-world tools
-- 🎨 Building technical renders with Blender
-- 🧰 Documenting and automating my workflows
-
----
-
-## 📚 Blog: My Learning Journey
-
-📝 _Follow my dev journey on Medium:_
-
-- [Why I Started Building Tools as an Engineer](https://medium.com/@yourname/why-tools)
+I’ve got a _“kind of”_ blog in the works ... you’ll find some draft articles and notes under the `blogs/` folder in my GitHub.  
+It’s not hosted anywhere fancy (yet), but I update it occasionally when I feel like writing down what I’m learning.
 
 ---
 
