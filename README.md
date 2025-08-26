@@ -11,7 +11,7 @@ I design and solve things ... sometimes seriously, sometimes chaotically ... but
 Right now, I’m using this GitHub profile as a **living lab** where I try out ideas and actually implement what I learn.
 
 My current obsession?  
-🎯 **[SafetyMaze](https://github.com/cameron-bartholome/SafetyMaze)** —> a laser beam path simulator built with Python and Tkinter.
+🎯 **[SafetyMaze](https://github.com/cameron-bartholome/safety-maze-public)** —> a laser beam path simulator built with Python and Tkinter.
 
 It’s a personal challenge to turn:
 - physics + math curiosity  
@@ -22,7 +22,7 @@ It’s a personal challenge to turn:
 ## 🔧 Learning as I Build
 
 With **SafetyMaze**, I'm learning:
-- GUI logic and layouts (Tkinter)  
+- GUI logic and layouts (PY QT6)  
 - Beam simulation and reflection behavior  
 - Geometry rendering and scaling  
 - Planning out long-term modular code
