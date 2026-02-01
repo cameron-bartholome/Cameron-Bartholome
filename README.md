@@ -1,73 +1,70 @@
-# 👋 Hi, I'm Cameron
+# 👋 Hi, I’m Cameron
 
-🏷️ #designer #problemSolver #tinkerer
+🏷️ #MechanicalEngineer #Designer #ProblemSolver #Tinkerer
 
-I design and solve things ... sometimes seriously, sometimes chaotically ... but always with curiosity.
-
----
-
-## 🧪 What I’m Up To
-
-Right now, I’m using this GitHub profile as a **living lab** where I try out ideas and actually implement what I learn.
-
-My current obsession?  
-🎯 **[SafetyMaze](https://github.com/cameron-bartholome/safety-maze-public)** —> a laser beam path simulator built with Python and Tkinter.
-
-It’s a personal challenge to turn:
-- physics + math curiosity  
-- Python skills I’ve been learning  
-- into a working (and hopefully useful) app
-
-
-## 🔧 Learning as I Build
-
-With **SafetyMaze**, I'm learning:
-- GUI logic and layouts (PY QT6)  
-- Beam simulation and reflection behavior  
-- Geometry rendering and scaling  
-- Planning out long-term modular code
-
-
-## 🚧 Project Status
-
-> ⚠️ Project still a WIP...messy code, quirky physics, and duct-taped interfaces included. Stay for the learning ride, and feel free to follow along!
-
-> ☕ Feedback, tips, sarcastic jokes, and laser puns always welcome.
-
-It’s not clean. It’s not optimized. And it may or may not explode if you stare at the code too long.
-
-But it’s mine ... and it’s teaching me a lot along the way.  
-(Also, a professional-looking version might appear someday… once I stop breaking it.)
-
+I design, prototype, and iterate on systems. Sometimes seriously, sometimes experimentally, but always with curiosity and intent.
 
 ---
 
-## 📚 About My Blog
+## 🧭 What This GitHub Is For
 
-I’ve got a _“kind of”_ blog in the works ... you’ll find some draft articles and notes under the `blogs/` folder in my GitHub.  
-It’s not hosted anywhere fancy (yet), but I update it occasionally when I feel like writing down what I’m learning.
+This GitHub is my working playground.
+
+I use it to explore ideas beyond my day-to-day engineering work, build small tools and prototypes, and document how I learn, test, and refine systems.
+
+Some projects are polished.  
+Others are rough sketches in code form.  
+All of them are part of how I think and grow.
 
 ---
 
-## 💻 Tech Stack
+## 🔧 What I’m Working With
+
+My background is in mechanical design and engineering, but I enjoy working across disciplines, especially where design, computation, and decision-making intersect.
+
+Recently, that includes:
+- Mechanical design and system thinking  
+- Prototyping and concept validation  
+- Programming and data analysis  
+- Exploring AI and machine learning fundamentals  
+- Financial modeling and analytical thinking  
+
+This space reflects that evolution.
+
+---
+
+## 🧪 How I Use Projects
+
+Most repositories here are experiments rather than products.
+
+They are learning-driven, not outcome-driven, and focused on understanding why things work, not just how.
+
+I care less about perfect code and more about:
+- clarity  
+- structure  
+- repeatable reasoning  
+- better decisions over time  
+
+---
+
+## 📚 Notes and Writing
+
+You will find draft notes, learning logs, and occasional long-form explanations.
+
+These are not polished blog posts. They are snapshots of thinking in motion.
+
+---
+
+## 💻 Tools and Technologies
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Siemens NX](https://img.shields.io/badge/Siemens%20NX-009999?style=flat-square&logo=siemens&logoColor=white)
 ![Blender](https://img.shields.io/badge/Blender-F5792A?style=flat-square&logo=blender&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
 ![Obsidian](https://img.shields.io/badge/Obsidian-483699?style=flat-square&logo=obsidian&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
+
 
 ---
 
-## 📊 GitHub Activity
-
-<img src="https://github-readme-stats.vercel.app/api?username=cameron-bartholome&show_icons=true&theme=tokyonight" width="450"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cameron-bartholome&layout=compact&theme=tokyonight" width="300"/>
-
----
-
-_“Solve boring problems with cool tools.”_
-
----
-
+Solve boring problems with cool tools.
